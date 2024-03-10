@@ -1,0 +1,43 @@
+{
+  "erc20s": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      "0x3244Ee64BAAAABD11F2F1D47297c4a8cBeE6aF9d"
+    ],
+    null
+  ],
+  "hub": {
+    "address": "0x395fb9Dff367C55cF648Dbc8d13D12F0A47cc493",
+    "chainId": 6
+  },
+  "spokes": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "0x4a4c821E1fd10C6B2093A66aacEb3A629Edc9ebA",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "0xFF0e9f749f94b2C0A10381adA010935D3515620C"
+  ]
+}
